@@ -2,6 +2,8 @@
 
 # Guida pratica al mondo bitcoin
 
+Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicinarsi alla comprensione di Bitcoin. Non ci sono requisiti per poter affrongare questa guida, devi solo conoscere la lingua italiana ed essere curioso del tema. 
+
 1. PERCHÈ È STATO CREATO BITCOIN?
   
 - 🎬 Storia e caratteristiche della moneta --> ⏰ Durata 2.45.
