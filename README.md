@@ -158,11 +158,16 @@
 
 ---
 
+Ora hai le conoscenze necessarie per poter godere della lettura e dell'approfondimento tecnico del libro Mastering Bitcoin. Libro consigliatissimo ed acquistabile in forma cartacea. Lascio il link al libro in formato pdf gratuito, ma sei libero di acquistarlo e di ringraziare per lo sforzo ed il lavoro per l'emissione di questo libro. 
+
+Oltre a link al pdf, ci sono ulteriori fonti che aiuteranno ulteriormente l'apprendimento degli argomenti trattati nel libro.
 
 7. MASTERING BITCOIN
 
+- 📚 Mastering Bitcoin - Andreas m. Antonopoulos. Tradotto da Riccardo Masutti
 
-   https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
+
+     https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
 
    
 
