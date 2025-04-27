@@ -160,7 +160,7 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 
 ---
 
-Ora hai le conoscenze necessarie per poter godere della lettura e dell'approfondimento tecnico del libro Mastering Bitcoin.
+Ora hai le conoscenze necessarie per poter godere della lettura e dell'approfondimento tecnico del libro "Mastering Bitcoin".
 
 Lascio il link al libro in formato pdf gratuito
 https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
