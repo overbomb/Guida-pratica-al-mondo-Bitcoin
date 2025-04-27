@@ -158,7 +158,7 @@
 
 ---
 
-Ora hai le conoscenze necessarie per poter godere della lettura e dell'approfondimento tecnico del libro Mastering Bitcoin. Libro consigliatissimo ed acquistabile in forma cartacea. Lascio il link al libro in formato pdf gratuito, ma sei libero di acquistarlo e di ringraziare per lo sforzo ed il lavoro per l'emissione di questo libro. 
+Ora hai le conoscenze necessarie per poter godere della lettura e dell'approfondimento tecnico del libro Mastering Bitcoin. Libro consigliatissimo ed acquistabile in forma cartacea. Lascio il link al libro in formato pdf gratuito, ma sei libero di acquistarlo e di ringraziare l'autore per lo sforzo ed il suo lavoro.
 
 Oltre a link al pdf, ci sono ulteriori fonti che aiuteranno ulteriormente l'apprendimento degli argomenti trattati nel libro.
 
