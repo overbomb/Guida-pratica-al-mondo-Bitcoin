@@ -97,4 +97,69 @@
     https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/le-impostazioni-di-un-wallet-615519eb-4565-557d-86a0-021badf7616f
   
     https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/superare-la-prova-del-tempo-f58cd446-c202-5eff-aab7-e61cc40e5c06
-  
+
+---
+
+
+  6. AVVICINIAMOCI AL PROTOCOLLO BITCOIN
+ 
+- 🎬 Le basi informatiche ⏰ 2 ore e 25 minuti
+    
+    https://www.youtube.com/watch?v=UsQjAuEeTGg
+   
+- 🎬 La rete Bitcoin ⏰ 1 ora e 30 minuti
+
+    https://www.youtube.com/watch?v=1_m2P0WB49Q
+
+  6.1 Full Node
+
+- ✏️ Che cos'è un full node ⏰ 3 minuti
+
+     https://planb.network/it/resources/glossary/node
+
+- 🎓 Il full node da più vicino ⏰ 5 minuti
+
+     https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/nodi-bitcoin-8533cebc-f799-528b-89df-8d75d4c37f1c
+
+  6.2 La Timechain
+
+- 🎬 Com'è fatto il registro destribuito di bitcoin? ⏰ 1 ora e 30 minuti
+
+     https://www.youtube.com/watch?v=jd-j0SBqIaA
+
+- 🎬 Rappresentazione visiva di una timechain (sottotitoli disponibili) ⏰ 17 minuti
+
+     https://www.youtube.com/watch?v=_160oMzblY8
+
+  6.3 Le transazioni
+
+- 🎓 Creare ed inviare una transazione Bitcoin ⏰ 5 minuti
+
+     https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/transazioni-bitcoin-03482644-5473-590b-975b-b43bb65eac21
+
+  6.4 Mining di Bitcoin
+
+- 🎓 Doppia spesa e generali bizantini sconfitti dalla prova di lavoro ⏰ 5 minuti
+
+     https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/i-miner-dbb8264a-7434-57e4-9d1b-fbd1bae37fdf
+
+- 🎬 Il mining in tutte le sue parti ⏰ 1 ora e 20 minuti
+
+     https://www.youtube.com/watch?v=zqpov8XkzMI
+
+- 🎬 L'industria del mining guadagna a spese delle energie rinnovabili ⏰ 1 ora
+
+     https://www.youtube.com/watch?v=Jin5RjUbXrQ
+
+- 🎬 Mettiamo insieme tutti i pezzi e costruiamo bitcoin ⏰ 1 ora
+
+     https://www.youtube.com/watch?v=9BfcosGe_Ew
+
+
+7. MASTERING BITCOIN
+
+
+   https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
+
+   
+
