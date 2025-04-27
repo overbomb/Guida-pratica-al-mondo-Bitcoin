@@ -6,21 +6,25 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 
 1. PERCHÈ È STATO CREATO BITCOIN?
   
-- 🎬 Storia e caratteristiche della moneta --> ⏰ Durata 2.45.
+- 🎬 Storia e caratteristiche della moneta  ⏰ Durata 2.45.
   
-     https://www.youtube.com/watch?v=eZmjlNSgB5w 
+     https://www.youtube.com/watch?v=eZmjlNSgB5w
+
 
 - ✏️ Come viene utilizzato bitcoin? Fermacarte? Spazzolino da denti? oppure come riserva di valore e moneta? ⏰ Durata 5 minuti.
   
      https://atlas21.com/it/bitcoin-riserva-di-valore-o-mezzo-di-scambio/
 
+      
+- 🎬 Che fine ha fatto la moneta? Cosa c***zo è successo nel 1971? ⏰ Durata 25 minuti.
+    
+     https://www.youtube.com/watch?v=i-QVNAUasjg
+
+
 - 🎬 Esclusione ed inclusione finanziaria nel mondo [Clicca il link qui sotto per guardare il video a partire da 1 ora e 24 minuti] ⏰ Durata 1 ora.
     
      https://www.youtube.com/watch?v=LhkBRPJh2s4&t=84m
     
-- 🎬 Che fine ha fatto la moneta? Cosa c***zo è successo nel 1971? ⏰ Durata 25 minuti.
-    
-     https://www.youtube.com/watch?v=i-QVNAUasjg
 
 ---
 
@@ -113,7 +117,7 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 
     https://www.youtube.com/watch?v=1_m2P0WB49Q
 
-  6.1 Full Node
+6.1 Full Node
 
 - ✏️ Che cos'è un full node ⏰ 3 minuti
 
@@ -123,7 +127,7 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 
      https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/nodi-bitcoin-8533cebc-f799-528b-89df-8d75d4c37f1c
 
-  6.2 La Timechain
+6.2 La Timechain
 
 - 🎬 Com'è fatto il registro destribuito di bitcoin? ⏰ 1 ora e 30 minuti
 
@@ -133,13 +137,13 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 
      https://www.youtube.com/watch?v=_160oMzblY8
 
-  6.3 Le transazioni
+6.3 Le transazioni
 
 - 🎓 Creare ed inviare una transazione Bitcoin ⏰ 5 minuti
 
      https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/transazioni-bitcoin-03482644-5473-590b-975b-b43bb65eac21
 
-  6.4 Mining di Bitcoin
+6.4 Mining di Bitcoin
 
 - 🎓 Doppia spesa e generali bizantini sconfitti dalla prova di lavoro ⏰ 5 minuti
 
