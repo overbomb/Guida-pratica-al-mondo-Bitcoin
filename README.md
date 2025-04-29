@@ -6,35 +6,35 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 
 1. PERCHÈ È STATO CREATO BITCOIN?
   
-- 🎬 Storia e caratteristiche della moneta  ⏰ Durata 2.45.
+- 🎬 Storia e caratteristiche della moneta  ⏰ Durata 2.45
   
      https://www.youtube.com/watch?v=eZmjlNSgB5w
 
 
-- ✏️ Come viene utilizzato bitcoin? Fermacarte? Spazzolino da denti? oppure come riserva di valore e moneta? ⏰ Durata 5 minuti.
+- ✏️ Come viene utilizzato bitcoin?  ⏰ Durata 5 minuti
   
      https://atlas21.com/it/bitcoin-riserva-di-valore-o-mezzo-di-scambio/
 
       
-- 🎬 Che fine ha fatto la moneta? Cosa c***zo è successo nel 1971? ⏰ Durata 25 minuti.
+- 🎬 Inflazione e conseguenze ⏰ Durata 25 minuti
     
      https://www.youtube.com/watch?v=i-QVNAUasjg
 
 
-- 🎬 Esclusione ed inclusione finanziaria nel mondo [Clicca il link qui sotto per guardare il video a partire da 1 ora e 24 minuti] ⏰ Durata 1 ora.
+- 🎬 Bitcoin e opportunità sociali - [Clicca il link qui sotto per guardare il video a partire da 1h e 24 minuti] ⏰ Durata 1 ora
     
      https://www.youtube.com/watch?v=LhkBRPJh2s4&t=84m
     
 
 ---
 
-2. INTRODUZIONE ALL' ECONOMIA AUSTRIACA
+2. SCUOLA AUSTRIACA DI ECONOMIA
 
 - ✏️ Introduzione all'economia austriaca ⏰ Durata 5 minuti.
   
      https://europeanbitcoiners.com/cose-leconomia-austriaca/
   
-- 🎓 Introduzione all'economia austriaca ⏰ durata 1 ora e 30
+- 🎓 Economia austriaca: i fondamenti  ⏰ durata 1 ora e 30
   
      https://planb.network/it/courses/introduzione-alleconomia-austriaca-d955dd28-b7c6-4ba2-a123-d932e21d148f
   
@@ -48,17 +48,17 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 3. MOVIMENTO CYPHERPUNK
    
   
-- 🎬 Introduzione dei (veri) protagonisti [Clicca il link qui sotto per guardare il video a partire dalla 6a ora e 42esimo minuto] ⏰ Durata 1 ora.
+- 🎬 Libertà + crittografia = MOVIMENTO CYPHERPUNK - [Clicca il link qui sotto per guardare il video da 6h e 42 minuti] ⏰ Durata 1 ora.
   
      https://www.youtube.com/watch?v=tTFlM1_jk5w&t=24120s
 
-  - ✏️ Eric Hughes – A Cypherpunk's Manifesto (1993) ⏰ Durata 5 minuti.
+- ✏️ Eric Hughes – A Cypherpunk's Manifesto (1993) ⏰ Durata 5 minuti.
   
      https://bibliotecabitcoin.org/cypherpunk/eric-hughes/a-cypherpunks-manifesto/
      https://x.com/allweneedissats/status/1705231167979409611 (versione riassunta)
 
-  
-- ✏️Timothy C. May – The Crypto Anarchist Manifesto (1988) ⏰ Durata 3 min.
+
+ - ✏️Timothy C. May – The Crypto Anarchist Manifesto (1988) ⏰ Durata 3 min.
   
      https://bibliotecabitcoin.org/cypherpunk/timothy-may/the-crypto-anarchist-manifesto/ 
      https://x.com/allweneedissats/status/1704867198672449577 (versione riassunta)
@@ -69,7 +69,7 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
      https://x.com/allweneedissats/status/1712825407945285690 (versione riassunta)
   
 
-- ✏️ Hal Finney - Politics vs Technology (1994) ⏰ Durata 3 minuti.
+- ✏️ Hal Finney - Politica vs Technologia (1994) ⏰ Durata 3 minuti.
   
      https://bibliotecabitcoin.org/cypherpunk/hal-finney/politics-vs-technology/
      https://x.com/allweneedissats/status/1708131715825226158 (versione riassunta)
@@ -80,11 +80,11 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 4. LA CRITTOGRAFIA 
 
 
-- 🎬 Crittografia spiegata semplice ⏰ durata 50 minuti
+- 🎬 Primi passi nella crittografia ⏰ durata 50 minuti
   
      https://www.youtube.com/watch?v=lDwyBHdouvI
 
-- 🎬 La crittografia applicata a Bitcoin [Clicca il link qui sotto per guardare il video a partire al minutaggio 1:42:00] ⏰ durata 1 ora
+- 🎬 La crittografia applicata a Bitcoin [Clicca il link qui sotto per guardare il video a partire da h1 e 42 minuti] ⏰ durata 1 ora
   
      https://www.youtube.com/watch?v=8IwHgHsPGBI&t=6120s 
 
