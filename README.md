@@ -2,7 +2,7 @@
 
 # Guida pratica al mondo bitcoin
 
-Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicinarsi alla comprensione di Bitcoin. Non ci sono requisiti per poter affrongare questa guida, devi solo conoscere la lingua italiana ed essere curioso del tema. 
+Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicinarsi alla comprensione di Bitcoin. Non ci sono requisiti per poter affrongare questa guida, devi solo conoscere la lingua italiana ed essere curioso del tema. Inserire la descizionde della strutturs generale della guida. Giustificare la prim parte che non parla strettamente di bitcoin.
 
 1. PERCHÈ È STATO CREATO BITCOIN?
   
@@ -51,6 +51,12 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 - 🎬 Introduzione dei (veri) protagonisti [Clicca il link qui sotto per guardare il video a partire dalla 6a ora e 42esimo minuto] ⏰ Durata 1 ora.
   
      https://www.youtube.com/watch?v=tTFlM1_jk5w&t=24120s
+
+  - ✏️ Eric Hughes – A Cypherpunk's Manifesto (1993) ⏰ Durata 5 minuti.
+  
+     https://bibliotecabitcoin.org/cypherpunk/eric-hughes/a-cypherpunks-manifesto/
+     https://x.com/allweneedissats/status/1705231167979409611 (versione riassunta)
+
   
 - ✏️Timothy C. May – The Crypto Anarchist Manifesto (1988) ⏰ Durata 3 min.
   
@@ -62,10 +68,6 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
      https://bibliotecabitcoin.org/cypherpunk/timothy-may/libertaria-in-cyberspace/
      https://x.com/allweneedissats/status/1712825407945285690 (versione riassunta)
   
-- ✏️ Eric Hughes – A Cypherpunk's Manifesto (1993) ⏰ Durata 5 minuti.
-  
-     https://bibliotecabitcoin.org/cypherpunk/eric-hughes/a-cypherpunks-manifesto/
-     https://x.com/allweneedissats/status/1705231167979409611 (versione riassunta)
 
 - ✏️ Hal Finney - Politics vs Technology (1994) ⏰ Durata 3 minuti.
   
@@ -177,8 +179,7 @@ Oltre a link al pdf, ci sono ulteriori fonti che aiuteranno ulteriormente l'appr
 
 - 📚 Mastering Bitcoin - Andreas m. Antonopoulos. Tradotto da Riccardo Masutti
 
-
      https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
 
-   
+     https://www.youtube.com/watch?v=ZRhPq8Psz4Q Da pagina 133 a pagina 156
 
