@@ -1,4 +1,3 @@
-# Guida-pratica-all-approfondimento-di-bitcoin
 
 # Guida pratica al mondo bitcoin
 
