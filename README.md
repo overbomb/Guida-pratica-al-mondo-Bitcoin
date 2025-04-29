@@ -96,7 +96,7 @@ Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicina
 
 5. I CUSTODI DELLE CHIAVI (I WALLET)
 
-- 🎓 Introduzione ai wallet corso plan b ⏰ 25 minuti
+- 🎓 Wallet: cosa sono e tipologie ⏰ 25 minuti
 
     https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/cosa-sono-i-wallet-bitcoin-1c0166ab-cb7a-5bc6-9175-d13482bd91f1
   
