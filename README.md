@@ -1,7 +1,25 @@
 
 # Guida pratica al mondo bitcoin
 
-Questa è una GUIDA in LINGUA ITALAIANA rivolta a tutti coloro vogliono avvicinarsi alla comprensione di Bitcoin. Non ci sono requisiti per poter affrongare questa guida, devi solo conoscere la lingua italiana ed essere curioso del tema. Inserire la descizionde della strutturs generale della guida. Giustificare la prim parte che non parla strettamente di bitcoin.
+Questa è una guida pratica al mondo Bitcoin in lingua italiana con contenuti completamente gratuiti.
+
+Destinatari
+- chi vuole avvicinarsi per la prima volta alle tematiche legate a Bitcoin e alla sua tecnologia,
+- tutti coloro che hanno curiosità per l'argomento,
+- chi già conosce Bitcoin ma vuole approfondire alcuni suoi elementi,
+- per tutti coloro che vogliano orangpillare amici e parenti.
+
+Contenuto e struttura
+Questa guida è frutto delle mie ricerche sul tema Bitcoin e racchiude diverse risorse (video, articoli, libri, corsi) di vari appassionati, studiosi ed eperti sugli argomenti che troverai.
+Ho scelto i contenuti in base ai principi di chiarezza, semplicità ed efficacia organizzando le varie risorse in vari step logici di apprendimento. 
+I contenuti scelti ruotano attorno al mondo Bitcoin trattando aspetti storici della moneta, i principi ideologici e teorici  che hanno portato alla nascita di Bitcoin. r
+Tutti gli argomenti saranno trattati nelle loro parti principali ed in modo non completamente esaustivo con l'obiettivo di far comprendere il messaggio chiave della guida "da inserire"
+
+Puoi utilizzarla come meglio credi. Puoi proporre modifiche o aggiunte per creare uno spazio condiviso efficacie per l'approfondimento di Bitcoin. 
+
+
+
+Inserire la descizionde della strutturs generale della guida. Giustificare la prim parte che non parla strettamente di bitcoin.
 
 1. PERCHÈ È STATO CREATO BITCOIN?
   
