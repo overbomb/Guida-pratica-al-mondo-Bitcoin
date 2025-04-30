@@ -1,10 +1,10 @@
 
 # Indice
-- [1. PERCHÈ È STATO CREATO BITCOIN?](#1.-perchè-è-stato-creato-bitcoin?)
-- [2. SCUOLA AUSTRIACA DI ECONOMIA](#2.-scuola-austriaca-di-economia)
-- [3. MOVIMENTO CYPHERPUNK](#3.-movimento-cypherpunk)
-- [4. LA CRITTOGRAFIA](#4.-la-crittografia)
-- [5. I CUSTODI DELLE CHIAVI (I WALLET)](#5.-i-custodi-delle-chiavi-(i-wallet))
+- [1. PERCHÈ È STATO CREATO BITCOIN?](#1-perchè-è-stato-creato-bitcoin?)
+- [2. SCUOLA AUSTRIACA DI ECONOMIA](#2-scuola-austriaca-di-economia)
+- [3. MOVIMENTO CYPHERPUNK](#3-movimento-cypherpunk)
+- [4. LA CRITTOGRAFIA](#4-la-crittografia)
+- [5. I CUSTODI DELLE CHIAVI (I WALLET)](#5-i-custodi-delle-chiavi-i-wallet)
 - [Capitolo 6](#capitolo-6)
 - [Capitolo 7](#capitolo-7)
 - [Capitolo 8](#capitolo-8)
