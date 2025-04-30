@@ -4,22 +4,21 @@
 👋 Questa è una guida pratica al mondo Bitcoin in lingua italiana con contenuti completamente gratuiti.
 
 Destinatari
-- Chi vuole avvicinarsi per la prima volta alle tematiche legate a Bitcoin e alla sua tecnologia
+- Chi vuole avvicinarsi per la prima volta alle tematiche legate a Bitcoin e alla sua tecnologia.
 - Tutti coloro che hanno curiosità per l'argomento.
 - Chi già conosce Bitcoin ma vuole approfondire alcuni suoi elementi.
 - Per tutti coloro che vogliano orange-pillare amici e parenti.
 
 Contenuto e struttura
+
 Questa guida è frutto delle mie ricerche sul tema Bitcoin e racchiude diverse risorse (video, articoli, libri, corsi) di vari appassionati, studiosi ed eperti sugli argomenti che troverai.
 Ho scelto i contenuti in base ai principi di chiarezza, semplicità ed efficacia organizzando le varie risorse in vari step logici di apprendimento. 
-I contenuti scelti ruotano attorno al mondo Bitcoin trattando aspetti storici della moneta, i principi ideologici e teorici  che hanno portato alla nascita di Bitcoin. 
-Tutti gli argomenti saranno trattati nelle loro parti principali ed in modo non completamente esaustivo con l'obiettivo di far comprendere il messaggio chiave della guida "da inserire"
+I contenuti scelti ruotano attorno al mondo Bitcoin trattando aspetti storici della moneta, e i principi ideologici e teorici  che hanno portato alla nascita di Bitcoin. 
+Tutti gli argomenti saranno trattati nelle loro parti principali ed in modo non completamente esaustivo perchè l'obiettivo è di avvicinare ai concetti chiave di bitcoin per poterne comprendere il funzionamento.
 
-Puoi utilizzarla come meglio credi. Puoi proporre modifiche o aggiunte per creare uno spazio condiviso efficacie per l'approfondimento di Bitcoin. 
+Puoi utilizzare la guida come meglio credi. Puoi proporre modifiche o aggiunte per creare uno spazio condiviso efficacie per l'approfondimento di Bitcoin. 
 
 
-
-Inserire la descizionde della strutturs generale della guida. Giustificare la prim parte che non parla strettamente di bitcoin ma serve per comprendere a pieno.
 
 1. PERCHÈ È STATO CREATO BITCOIN?
   
