@@ -187,7 +187,7 @@
 
 ## 6.4 Mining di Bitcoin
 
-- 🎓 Doppia spesa e generali bizantini sconfitti dalla prova di lavoro ⏰ 5 minuti
+- 🎓 Proof of work ⏰ 5 minuti
 
      https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/i-miner-dbb8264a-7434-57e4-9d1b-fbd1bae37fdf
 
@@ -214,7 +214,7 @@ Lascio il link al libro in formato pdf gratuito https://riccardomasutti.com/Mast
 
 Libro consigliatissimo ed acquistabile in forma cartacea per ringraziare l'autore del suo lavoro.
 
-Oltre a link al pdf, ci sono ulteriori fonti che aiuteranno ulteriormente l'apprendimento degli argomenti trattati nel libro. <br><br>
+Come approfondimento, di seguito troverai alcune fonti aggiuntive che ti aiuteranno nella comprensione di alcuni argomenti trattati nel libro. <br><br>
 
 
 ---
@@ -228,4 +228,6 @@ Oltre a link al pdf, ci sono ulteriori fonti che aiuteranno ulteriormente l'appr
 
      https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
 
-     https://www.youtube.com/watch?v=ZRhPq8Psz4Q Da pagina 133 a pagina 156
+  Per approfondimento
+
+   - https://www.youtube.com/watch?v=ZRhPq8Psz4Q Da pagina 133 a pagina 156
