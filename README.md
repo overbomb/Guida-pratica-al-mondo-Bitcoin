@@ -71,24 +71,23 @@ Puoi utilizzare la guida come meglio credi. Puoi proporre modifiche o aggiunte p
 - ✏️ Eric Hughes – A Cypherpunk's Manifesto (1993) ⏰ Durata 5 minuti.
   
      https://bibliotecabitcoin.org/cypherpunk/eric-hughes/a-cypherpunks-manifesto/
-     https://x.com/allweneedissats/status/1705231167979409611 (versione riassunta)
 
 
  - ✏️Timothy C. May – The Crypto Anarchist Manifesto (1988) ⏰ Durata 3 min.
   
      https://bibliotecabitcoin.org/cypherpunk/timothy-may/the-crypto-anarchist-manifesto/ 
-     https://x.com/allweneedissats/status/1704867198672449577 (versione riassunta)
+    
   
 - ✏️ Timothy C. May - Libertaria in Cyberspace (1992) ⏰ Durata 7 minuti.
   
      https://bibliotecabitcoin.org/cypherpunk/timothy-may/libertaria-in-cyberspace/
-     https://x.com/allweneedissats/status/1712825407945285690 (versione riassunta)
+   
   
 
 - ✏️ Hal Finney - Politica vs Technologia (1994) ⏰ Durata 3 minuti.
   
      https://bibliotecabitcoin.org/cypherpunk/hal-finney/politics-vs-technology/
-     https://x.com/allweneedissats/status/1708131715825226158 (versione riassunta)
+
 
 
 ---
