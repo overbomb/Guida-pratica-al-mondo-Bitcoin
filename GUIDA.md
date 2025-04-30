@@ -6,8 +6,8 @@
 - [4. LA CRITTOGRAFIA](#4-la-crittografia)
 - [5. I CUSTODI DELLE CHIAVI (I WALLET)](#5-i-custodi-delle-chiavi-i-wallet)
 - [6. IL PROTOCOLLO BITCOIN](#6-il-protocollo-bitcoin)
-    - [6.1 Full Node](#6-1-full-node)
-    - [6.2 La Timechain](#6-2-la-timechain)
+    - [6.1 Full Node](#61-full-node)
+    - [6.2 La Timechain](#62-la-timechain)
     - [6.3 Le transazioni](#6-3-le-transazioni)
     - [6.4 Mining di Bitcoin](#6-4-mining-di-bitcoin) <br><br>
 
