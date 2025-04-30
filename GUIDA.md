@@ -1,7 +1,7 @@
 
 # Indice
 - [PERCHÈ È STATO CREATO BITCOIN?](#perchè-è-stato-creato-bitcoin?)
-- [Capitolo 2](#capitolo-2)
+- [SCUOLA AUSTRIACA DI ECONOMIA](#scuola-austriaca-di-economia)
 - [Capitolo 3](#capitolo-3)
 - [Capitolo 4](#capitolo-4)
 - [Capitolo 5](#capitolo-5)
@@ -20,6 +20,7 @@
 
 
 # PERCHÈ È STATO CREATO BITCOIN?
+
 🎬 Storia e caratteristiche della moneta ⏰ Durata 2.45
 
 https://www.youtube.com/watch?v=eZmjlNSgB5w
@@ -36,7 +37,8 @@ https://www.youtube.com/watch?v=i-QVNAUasjg
 
 https://www.youtube.com/watch?v=LhkBRPJh2s4&t=84m
 
-SCUOLA AUSTRIACA DI ECONOMIA
+# SCUOLA AUSTRIACA DI ECONOMIA
+
 ✏️ Introduzione all'economia austriaca ⏰ Durata 5 minuti.
 
 https://europeanbitcoiners.com/cose-leconomia-austriaca/
@@ -50,6 +52,7 @@ https://planb.network/it/courses/introduzione-alleconomia-austriaca-d955dd28-b7c
 Link da inserire**
 
 MOVIMENTO CYPHERPUNK
+
 🎬 Libertà + crittografia = MOVIMENTO CYPHERPUNK - [Clicca il link qui sotto per guardare il video da 6h e 42 minuti] ⏰ Durata 1 ora.
 
 https://www.youtube.com/watch?v=tTFlM1_jk5w&t=24120s
@@ -71,6 +74,7 @@ https://bibliotecabitcoin.org/cypherpunk/timothy-may/libertaria-in-cyberspace/ h
 https://bibliotecabitcoin.org/cypherpunk/hal-finney/politics-vs-technology/ https://x.com/allweneedissats/status/1708131715825226158 (versione riassunta)
 
 LA CRITTOGRAFIA
+
 🎬 Primi passi nella crittografia ⏰ durata 50 minuti
 
 https://www.youtube.com/watch?v=lDwyBHdouvI
@@ -84,6 +88,7 @@ https://www.youtube.com/watch?v=8IwHgHsPGBI&t=6120s
 https://www.youtube.com/watch?v=kGSFNxle3eQ
 
 I CUSTODI DELLE CHIAVI (I WALLET)
+
 🎓 Wallet: cosa sono e tipologie ⏰ 25 minuti
 
 https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/cosa-sono-i-wallet-bitcoin-1c0166ab-cb7a-5bc6-9175-d13482bd91f1
@@ -95,6 +100,7 @@ https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/le-imposta
 https://planb.network/it/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/superare-la-prova-del-tempo-f58cd446-c202-5eff-aab7-e61cc40e5c06
 
 AVVICINIAMOCI AL PROTOCOLLO BITCOIN
+
 🎬 Le basi informatiche ⏰ 2 ore e 25 minuti
 
 https://www.youtube.com/watch?v=UsQjAuEeTGg
@@ -156,6 +162,7 @@ Libro consigliatissimo ed acquistabile in forma cartacea per ringraziare l'autor
 Oltre a link al pdf, ci sono ulteriori fonti che aiuteranno ulteriormente l'apprendimento degli argomenti trattati nel libro.
 
 MASTERING BITCOIN
+
 📚 Mastering Bitcoin - Andreas m. Antonopoulos. Tradotto da Riccardo Masutti
 
 https://riccardomasutti.com/Mastering%20Bitcoin%20-%20Traduzione%20italiana%20della%20guida%20completa%20al%20mondo%20di%20bitcoin%20e%20della%20blockchain.pdf
