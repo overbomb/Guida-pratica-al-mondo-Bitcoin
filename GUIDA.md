@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=i-QVNAUasjg
 
 🎬 Bitcoin e opportunità sociali - [Clicca il link qui sotto per guardare il video a partire da 1h e 24 minuti] ⏰ Durata 1 ora
 
-https://www.youtube.com/watch?v=LhkBRPJh2s4&t=84m
+https://www.youtube.com/watch?v=LhkBRPJh2s4&t=84m <br><br>
 
 # SCUOLA AUSTRIACA DI ECONOMIA
 
