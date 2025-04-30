@@ -1,10 +1,10 @@
 
 # Indice
-- [PERCHÈ È STATO CREATO BITCOIN?](#perchè-è-stato-creato-bitcoin?)
-- [SCUOLA AUSTRIACA DI ECONOMIA](#scuola-austriaca-di-economia)
-- [Capitolo 3](#capitolo-3)
-- [Capitolo 4](#capitolo-4)
-- [Capitolo 5](#capitolo-5)
+- [1. PERCHÈ È STATO CREATO BITCOIN?](#1.-perchè-è-stato-creato-bitcoin?)
+- [2. SCUOLA AUSTRIACA DI ECONOMIA](#2.-scuola-austriaca-di-economia)
+- [3. MOVIMENTO CYPHERPUNK](#3.-movimento-cypherpunk)
+- [4. LA CRITTOGRAFIA](#4.-la-crittografia)
+- [5. I CUSTODI DELLE CHIAVI (I WALLET)](#5.-i-custodi-delle-chiavi-(i-wallet))
 - [Capitolo 6](#capitolo-6)
 - [Capitolo 7](#capitolo-7)
 - [Capitolo 8](#capitolo-8)
@@ -19,7 +19,7 @@
 
 
 
-# PERCHÈ È STATO CREATO BITCOIN?
+# 1. PERCHÈ È STATO CREATO BITCOIN?
 
 🎬 Storia e caratteristiche della moneta ⏰ Durata 2.45
 
@@ -36,10 +36,9 @@ https://www.youtube.com/watch?v=i-QVNAUasjg
 🎬 Bitcoin e opportunità sociali - [Clicca il link qui sotto per guardare il video a partire da 1h e 24 minuti] ⏰ Durata 1 ora
 
 https://www.youtube.com/watch?v=LhkBRPJh2s4&t=84m <br><br><br><br>
-
 ---
 
-# SCUOLA AUSTRIACA DI ECONOMIA
+# 2. SCUOLA AUSTRIACA DI ECONOMIA
 
 ✏️ Introduzione all'economia austriaca ⏰ Durata 5 minuti.
 
@@ -53,7 +52,7 @@ https://planb.network/it/courses/introduzione-alleconomia-austriaca-d955dd28-b7c
 
 Link da inserire**
 
-MOVIMENTO CYPHERPUNK
+# 3. MOVIMENTO CYPHERPUNK
 
 🎬 Libertà + crittografia = MOVIMENTO CYPHERPUNK - [Clicca il link qui sotto per guardare il video da 6h e 42 minuti] ⏰ Durata 1 ora.
 
@@ -75,7 +74,7 @@ https://bibliotecabitcoin.org/cypherpunk/timothy-may/libertaria-in-cyberspace/ h
 
 https://bibliotecabitcoin.org/cypherpunk/hal-finney/politics-vs-technology/ https://x.com/allweneedissats/status/1708131715825226158 (versione riassunta)
 
-LA CRITTOGRAFIA
+# 4. LA CRITTOGRAFIA
 
 🎬 Primi passi nella crittografia ⏰ durata 50 minuti
 
@@ -89,7 +88,7 @@ https://www.youtube.com/watch?v=8IwHgHsPGBI&t=6120s
 
 https://www.youtube.com/watch?v=kGSFNxle3eQ
 
-I CUSTODI DELLE CHIAVI (I WALLET)
+# 5. I CUSTODI DELLE CHIAVI (I WALLET)
 
 🎓 Wallet: cosa sono e tipologie ⏰ 25 minuti
 
