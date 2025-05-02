@@ -12,7 +12,7 @@ Destinatari
 Contenuto e struttura
 
 Questa guida nasce dalle mie ricerche su Bitcoin e raccoglie diverse risorse (video, articoli, libri, corsi) di appassionati, studiosi ed esperti sugli argomenti che troverai.
-Ho scelto i contenuti puntandosu chiarezza, semplicità ed efficacia, organizzandoli in vari passaggi logici per facilitare l'apprendimento. 
+Ho scelto i contenuti puntando su chiarezza, semplicità ed efficacia, organizzandoli in vari passaggi logici per facilitare l'apprendimento. 
 I contenuti scelti ruotano attorno al mondo Bitcoin trattando aspetti storici della moneta, e i principi ideologici e teorici  che hanno portato alla nascita di Bitcoin. 
 Tutti i temi saranno trattati nei loro aspetti principali senza essere completamente esaustivi perchè l'obiettivo della guida è di comprendere la tecnologia bitcoin e le motivazioni ideologiche alla base.
 
