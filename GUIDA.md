@@ -51,7 +51,7 @@
 
 - 📚 Il bitcoin standard - l'alternativa decentralizzata alle banche centrali
 
-     Consigliato l'acquisto, ma è possibile trovarlo anche cercando su LibGen.
+     Consigliato l'acquisto, ma è possibile trovarlo gratuito cercando su LibGen o sul canale telegram https://t.me/librilibertari.
 
   ---
    <br><br>
