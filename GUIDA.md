@@ -157,7 +157,7 @@
 
 ## 6.2 La Timechain
 
-- 🎬 Com'è fatto il registro destribuito di bitcoin? ⏰ 1 ora e 30 minuti
+- 🎬 Com'è fatto il registro distribuito di bitcoin? ⏰ 1 ora e 30 minuti
 
      https://www.youtube.com/watch?v=jd-j0SBqIaA
 
