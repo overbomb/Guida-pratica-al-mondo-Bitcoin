@@ -49,9 +49,9 @@
 
      https://planb.network/it/courses/introduzione-alleconomia-austriaca-d955dd28-b7c6-4ba2-a123-d932e21d148f
 
-- 📚 Libro il bitcoin standard
+- 📚 Il bitcoin standard - l'alternativa decentralizzata alle banche centrali
 
-     Link da inserire**<br><br>
+     Consigliato l'acquisto, ma è possibile trovarlo anche cercando su LibGen.
 
   ---
    <br><br>
