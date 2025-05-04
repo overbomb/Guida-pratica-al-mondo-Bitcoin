@@ -230,4 +230,5 @@ Come approfondimento, di seguito troverai alcune fonti aggiuntive che ti aiutera
 
   Per approfondimento
 
-   - https://www.youtube.com/watch?v=ZRhPq8Psz4Q Da pagina 133 a pagina 156
+- https://www.youtube.com/watch?v=ZRhPq8Psz4Q Da pagina 133 a pagina 156
+- https://www.youtube.com/watch?v=A2GoHUqDlxA&t=820s fino a min 21 tratta le pagine 199 - 206
