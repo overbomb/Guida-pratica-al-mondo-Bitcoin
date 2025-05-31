@@ -19,7 +19,7 @@
 
 
 
-# 1. PERCHÈ È STATO CREATO BITCOIN?
+# 1. PERCHÉ È STATO CREATO BITCOIN?
 
 - 🎬 Storia e caratteristiche della moneta ⏰ Durata 2.45
 
