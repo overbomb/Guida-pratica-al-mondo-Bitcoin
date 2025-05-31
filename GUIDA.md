@@ -1,6 +1,6 @@
 
 # Indice
-- [1. PERCHÈ È STATO CREATO BITCOIN?](#1-perchè-è-stato-creato-bitcoin?)
+- [1. PERCHÉ È STATO CREATO BITCOIN?](#1-perché-è-stato-creato-bitcoin?)
 - [2. SCUOLA AUSTRIACA DI ECONOMIA](#2-scuola-austriaca-di-economia)
 - [3. MOVIMENTO CYPHERPUNK](#3-movimento-cypherpunk)
 - [4. LA CRITTOGRAFIA](#4-la-crittografia)
