@@ -20,3 +20,9 @@ Puoi utilizzare la guida come meglio credi. Puoi proporre modifiche o aggiunte p
 
 
 Clicca qui per andare alla [GUIDA](GUIDA.md)
+
+Per uno spazio di approfondimento condiviso https://t.me/+2LKZxQxxw5YzNTQ0
+
+
+Per supportare puoi farlo con una donazione lightining overbomb@blink.sv oppure scrivendomi all'indirizzo mail robeg@tutamail.com.
+
